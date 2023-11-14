@@ -5,6 +5,6 @@
   </p>
 </div>
 
-The repository for my Bachelor's Thesis presented in June 2023. Object Detection with One-Shot Convolutional Neural Networks for playing the game Cuphead had the objective of using object detection algorithms in order to automatically play the game. Here, three different object detection algorithms where explored: YOLOv5, Faster-RCNN+InceptionResNet and SSD+MobileNet. Finally, using a trained version of YOLOv5 and an automatically labeled dataset containing in-game data, the model defeated one of the bosses that can be found in the game: Goopy Le Grande.
+The repository of my Bachelor's Thesis presented in June 2023. Object Detection with One-Shot Convolutional Neural Networks for playing the game Cuphead had the objective of using object detection algorithms in order to automatically play the game. Here, three different object detection algorithms where explored: YOLOv5, Faster-RCNN+InceptionResNet and SSD+MobileNet. Finally, using a trained version of YOLOv5 and an automatically labeled dataset containing in-game data, the model defeated one of the bosses that can be found in the game: Goopy Le Grande.
 
 Go to the LinkedIn post with the thesis by clicking in the banner above!
