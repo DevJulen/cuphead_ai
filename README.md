@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    <a href="[https://drive.google.com/uc?export=view&id=1UKWU3DLIgq6xVSF0lOyRbZ_N3N1tFMyr](https://www.linkedin.com/posts/julen-indias-garcia_one-shot-cnns-for-playing-cuphead-activity-7084152406942334976-V4OQ?utm_source=share&utm_medium=member_desktop)">
+    <a href="https://www.linkedin.com/posts/julen-indias-garcia_one-shot-cnns-for-playing-cuphead-activity-7084152406942334976-V4OQ?utm_source=share&utm_medium=member_desktop">
     <img width="100%" src="https://drive.google.com/uc?export=view&id=1UKWU3DLIgq6xVSF0lOyRbZ_N3N1tFMyr"></a>
   </p>
 </div>
